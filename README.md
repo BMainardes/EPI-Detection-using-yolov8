@@ -21,10 +21,10 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/BMainardes/epi-detection-yolov8.git
+git clone https://github.com/BMainardes/EPI-Detection-using-yolov8.git
 ```
 ```
-cd epi-detection-yolov8
+cd EPI-Detection-using-yolov8
 ```
 Install the required dependencies:
 ```
