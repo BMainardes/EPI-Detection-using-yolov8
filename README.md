@@ -17,8 +17,10 @@ Prerequisites
 Python 3.8 or higher
 pip for managing Python packages
 A machine with GPU support is recommended for faster inference.
-Installation
-Clone the repository:
+
+
+
+# Cloning the Repository
 
 ```
 git clone https://github.com/BMainardes/EPI-Detection-using-yolov8.git
@@ -26,7 +28,7 @@ git clone https://github.com/BMainardes/EPI-Detection-using-yolov8.git
 ```
 cd EPI-Detection-using-yolov8
 ```
-Install the required dependencies:
+# Install the required dependencies:
 ```
 pip install -r requirements.txt
 ```
